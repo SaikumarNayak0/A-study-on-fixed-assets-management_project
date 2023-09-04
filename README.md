@@ -1,1 +1,2 @@
 # A-study-on-fixed-assets-management_project
+As a part of my MBA specialization in Finance, I had the opportunity to conduct a comprehensive study on fixed assets management within the esteemed organization, UltraTech Cement Limited. This real-time project aimed to analyze and enhance the company's fixed assets management practices, with a focus on efficiency, cost-effectiveness, and strategic alignment.
